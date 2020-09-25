@@ -1,0 +1,133 @@
+body
+{
+ margin: 0;
+ padding: 0;
+}
+.container
+{
+    width: 70%;
+    margin: auto;
+    
+}
+.icon-area ul
+{
+    list-style: none;
+}
+.icon-area ul li
+{
+    display: inline-block;
+}
+.icon-area ul li a
+{
+    color: #fff;
+    background-color: blueviolet;
+    font-size: 50px;
+    padding: 30px 40px;
+    display: block;
+    border-radius: 50%;
+
+    
+}
+.icon-area ul li a:hover 
+{
+ color: #000;
+ border-radius: 10px;
+ background-color:#cec3d9;
+ transition:1.7s;
+}
+.container_1
+{
+    width: 70%;
+    margin: auto;
+    
+}
+.icon-area_1 ul
+{
+    list-style: none;
+}
+.icon-area_1 ul li
+{
+    display: inline-block;
+}
+.icon-area_1 ul li a
+{
+    color: yellow;
+    background-color:black;
+    font-size: 50px;
+    padding: 30px 40px;
+    display: block;
+    border-radius: 50%;
+
+    
+}
+.icon-area_1 ul li a:hover 
+{
+ color: #000;
+ border-radius: 10px;
+ background-color:#cec3d9;
+ transition:1.7s;
+}
+.container_2
+{
+    width: 70%;
+    margin: auto;
+    
+}
+.icon-area_2 ul
+{
+    list-style: none;
+}
+.icon-area_2 ul li
+{
+    display: inline-block;
+}
+.icon-area_2 ul li a
+{
+    color: brown;
+    background-color: bisque ;
+    font-size: 50px;
+    padding: 30px 40px;
+    display: block;
+    border-radius: 50%;
+
+    
+}
+.icon-area_2 ul li a:hover 
+{
+ color: #000;
+ border-radius: 10px;
+ background-color:#cec3d9;
+ transition:1.7s;
+}
+.container_3
+{
+    width: 70%;
+    margin: auto;
+    
+}
+.icon-area_3 ul
+{
+    list-style: none;
+}
+.icon-area_3 ul li
+{
+    display: inline-block;
+}
+.icon-area_3 ul li a
+{
+    color:whitesmoke;
+    background-color: #0066FF ;
+    font-size: 50px;
+    padding: 30px 40px;
+    display: block;
+    border-radius: 50%;
+
+    
+}
+.icon-area_3 ul li a:hover 
+{
+ color: #000;
+ border-radius: 10px;
+ background-color:#cec3d9;
+ transition:1.7s;
+}
